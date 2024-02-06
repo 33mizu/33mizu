@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @33mizu
+- 👀 I’m interested in NLP and computational linguistics
+- 🌱 I’m currently learning Python fundamentals
+- 💞️ I’m looking to collaborate on beginner-friendly Python projects, especially those related to linguistics
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love bugs!
